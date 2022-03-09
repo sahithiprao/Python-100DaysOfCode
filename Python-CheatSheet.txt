@@ -1,0 +1,28 @@
+DATATYPES:
+
+check DT - type()
+
+Type Converstion:
+Int to Str - str(num_variable)
+Int to float - float(123)
+f-String - print(f"String {num_variable}") - can use any DT without conversions.
+
+String:
+Subscript - method of pulling an element from a string.
+ex: "Hello"[0]
+Concat- 2 strings with plus
+Built- in Functions - Len()
+
+Integer:
+Large Integers can be represented as 123_456_789 (computer ignores underscore and it is more readable for humans)
+Flow division - (7//3) gives a int not float
+
+Float:
+3.14159
+Divide(/) - gives a float
+Built- in Functions - Round()
+
+Boolean:
+Camel Case True and False
+
+Mathematical Operations: PEDMAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction) Left to Right
