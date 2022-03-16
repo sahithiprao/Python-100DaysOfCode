@@ -26,3 +26,8 @@ Boolean:
 Camel Case True and False
 
 Mathematical Operations: PEDMAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction) Left to Right
+
+Functions:
+Built-in functions, user defined functions
+
+Indentation:
