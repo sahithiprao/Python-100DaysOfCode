@@ -38,3 +38,19 @@ Capitalize()- the capitalize() method converts first character of a string to up
 title() - The title() method returns a string where the first character in every word is upper case
 
 DOC string: """ information of the function  """
+
+SCOPE: 
+Local Scope - Available within functions
+Global Scope - Available anywhere in the file
+
+Namespace: Anything we give name to has Namespace. Be considerate of scope of the variable or function name.
+
+Block Scope: 
+Any variable that is created inside a if/for/while loops and is indented and has a colon, then that is not permitted to local scope.
+Whereas, variable created inside a if block inside a function, has local scope.
+
+Modifying global scope: 
+global keyword along with variable is used inside the functions to explicitly use the global scope variable.
+
+Global Constants:
+(PI = 3.14159) can be used as GC. These should be UPPER_CASE with underscope.
