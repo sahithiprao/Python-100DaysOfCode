@@ -30,4 +30,11 @@ Mathematical Operations: PEDMAS (Parentheses, Exponents, Multiplication, Divisio
 Functions:
 Built-in functions, user defined functions
 
-Indentation:
+Function with inputs- Parameter and Arguments - Positional Argument(args should be in particular position), Keyword Argument (parameter = arg value, not specific to position)
+
+Function with output - using return keyword 
+
+Capitalize()- the capitalize() method converts first character of a string to uppercase letter and lowercases all other characters, if any
+title() - The title() method returns a string where the first character in every word is upper case
+
+DOC string: """ information of the function  """
