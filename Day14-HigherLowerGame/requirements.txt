@@ -1,0 +1,17 @@
+#higherlowergame.com --play this
+
+compare A: Neymar, a footballer from Brazil
+compare B: Khloe Khardasian
+if right score +1 else game over
+
+C A: Rihanna
+C B: Shakira
+if right score +1 else game over
+
+1) Break Down the problem
+2) To do list
+3) Turn the problem into comments
+4) Write code- Run it and Fix it
+5) Next Task
+
+
