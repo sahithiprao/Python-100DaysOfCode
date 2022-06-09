@@ -1,0 +1,10 @@
+Event listening - Listen to the keyboard commands/keys and responding 
+
+Higher order functions - functions that work with other functions (passing functions as a parameter to other functions)
+--when using these functions better to use key word arg rather than positional args
+
+Object State:
+tim (object) = Turtle() (class)
+Every object created from a class(blueprint), they are called INSTANCES and are independent to each other.
+Each object can have different attributes and can perform different methods at any one time. In programming, it is known as STATE.
+
